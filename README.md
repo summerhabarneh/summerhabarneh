@@ -6,8 +6,4 @@ This portfolio is a curated collection of projects that demonstrate my growing e
 
 Data wrangling and analysis using Python and SQL
 
-ETL pipeline development
-
 Machine learning and predictive modeling
-
-Turning complex data into clear, actionable insights
